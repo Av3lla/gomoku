@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/gomoku/static/css/main.4717b25c.css",
-    "main.js": "/gomoku/static/js/main.3c75383b.js",
-    "static/media/go_w.png": "/gomoku/static/media/go_w.370a59fab1d74abaf5ef.png",
-    "static/media/go_b.png": "/gomoku/static/media/go_b.0de8736181e00d81509a.png",
+    "main.css": "/gomoku/static/css/main.7001c175.css",
+    "main.js": "/gomoku/static/js/main.bbfe860c.js",
     "index.html": "/gomoku/index.html",
-    "main.4717b25c.css.map": "/gomoku/static/css/main.4717b25c.css.map",
-    "main.3c75383b.js.map": "/gomoku/static/js/main.3c75383b.js.map"
+    "main.7001c175.css.map": "/gomoku/static/css/main.7001c175.css.map",
+    "main.bbfe860c.js.map": "/gomoku/static/js/main.bbfe860c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4717b25c.css",
-    "static/js/main.3c75383b.js"
+    "static/css/main.7001c175.css",
+    "static/js/main.bbfe860c.js"
   ]
 }
