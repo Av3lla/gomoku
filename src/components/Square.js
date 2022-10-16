@@ -15,7 +15,7 @@ function Square(props)  {
   } */
 
   return (
-    <button className='w-24 h-24 bg-yellow-800' onClick={props.onClick}>
+    <button className='w-12 h-12 inline-block align-bottom border border-black bg-yellow-700' onClick={props.onClick}>
       {/* <img src={getColorByTurn(props.turn)} alt="" /> */}
       {props.value}
     </button>
