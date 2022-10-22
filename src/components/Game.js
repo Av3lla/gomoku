@@ -43,9 +43,17 @@ function Game() {
               } else  {
                 count = 0;
               }
-              if (count >= 5) {
+              if (count === 5) {
+                if (boardArr[nx+dx[i]][ny+dy[i]] === boardArr[x][y])  {
+                  if (isBlackTurn === true) {
+                    console.log('백이 승리하였습니다. (흑이 장목을 놓았습니다.)');
+                  } else  {
+                    console.log('백이 승리하였습니다.');
+                  }
+                } else  {
+                  console.log(`${isBlackTurn}이 승리하였습니다.`);
+                }
                 setIsFinish(true);
-                console.log(isBlackTurn);
                 return true;
               }
               nx += dx[i];
