@@ -10,7 +10,7 @@ function Game() {
   const [isFinish, setIsFinish] = useState(false);
 
   function clickSquare(x, y)  {
-    if (isFinish === true)  {
+    if (isFinish === true || boardArr[x][y] != null)  {
       return;
     }
     const newBoardArr = boardArr;
