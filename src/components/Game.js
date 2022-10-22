@@ -40,6 +40,8 @@ function Game() {
               }
               if (boardArr[nx][ny] === boardArr[x][y])  {
                 count += 1;
+              } else  {
+                count = 0;
               }
               if (count >= 5) {
                 setIsFinish(true);

@@ -4,7 +4,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-181717.svg?logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717.svg?logo=javascript)
 [![React](https://img.shields.io/badge/React-181717.svg?logo=react)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.1.8-06B6D4.svg?logo=tailwindcss)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-181717.svg?logo=tailwindcss)](https://tailwindcss.com/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/av3lla/gomoku)
 [![GitHub](https://img.shields.io/github/license/av3lla/gomoku)](https://www.gnu.org/licenses/gpl-3.0.html)
 
